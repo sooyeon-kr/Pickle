@@ -1,0 +1,18 @@
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/PizzaPickle/Frontend
+[submodule "RealTimeConsultingServer"]
+	path = RealTimeConsultingServer
+	url = https://github.com/PizzaPickle/RealTimeConsultingServer
+[submodule "Back-Testing"]
+	path = Back-Testing
+	url = https://github.com/PizzaPickle/Back-Testing
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/PizzaPickle/Backend
+[submodule "ProductPriceServer"]
+	path = ProductPriceServer
+	url = https://github.com/PizzaPickle/ProductPriceServer
+[submodule "Mydata"]
+	path = Mydata
+	url = https://github.com/PizzaPickle/Mydata
